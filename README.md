@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World! 👋</h1>
+<h1 align="center">Ritik Ghoghari👋</h1>
 <h2 align="center">Welcome to my GitHub Profile</h2>
 
 <p align="center">
