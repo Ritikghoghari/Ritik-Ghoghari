@@ -1,12 +1,13 @@
-<p align="center">
-  <img src="dashboard.gif" alt="Profile Banner">
-</p>
 
 <h1 align="center">Hello World! 👋</h1>
 <h2 align="center">Welcome to my GitHub Profile</h2>
 
 <p align="center">
 I am a Data Science enthusiast passionate about AI, ML, and Big Data.
+</p>
+
+<p align="center">
+  <img src="dashboard.gif" alt="Profile Banner">
 </p>
 
 <p align="center">
