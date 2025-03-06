@@ -10,9 +10,13 @@ I am a Data Science enthusiast passionate about AI, ML, and Big Data.
   <img src="dashboard.gif" alt="Profile Banner">
 </p>
 
-<p align="center">
- 🔭 I’m currently working on <b>Machine Learning Projects</b> <br>
- 🌱 I’m currently learning <b>PySpark and Big Data</b> <br>
- 👯 I’m looking for opportunities as a <b>Data Analyst/Scientist Intern</b> <br>
- 📫 Reach me at: <a href="your-link">Your Email or LinkedIn</a>
+<p align="left">
+  <ul>
+     < li>
+         🔭 I’m currently working on <b>Machine Learning Projects</b> <br>
+         🌱 I’m currently learning <b>PySpark and Big Data</b> <br>
+         👯 I’m looking for opportunities as a <b>Data Analyst/Scientist Intern</b> <br>
+         📫 Reach me at: <a href="your-link">Your Email or LinkedIn</a>
+     </li>
+  </ul>
 </p>
