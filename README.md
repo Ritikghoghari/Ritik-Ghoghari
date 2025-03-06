@@ -1,11 +1,17 @@
-# Hello World! 👋
-## Welcome to my GitHub Profile
+<p align="center">
+  <img src="your-image-link-here" alt="Profile Banner">
+</p>
 
-![Profile Banner](dashboard.gif)
+<h1 align="center">Hello World! 👋</h1>
+<h2 align="center">Welcome to my GitHub Profile</h2>
 
-I am a Data Science enthusiast passionate about AI, ML, and Big Data. 
-- 🔭 I’m currently working on **Machine Learning Projects**
-- 🌱 I’m currently learning **PySpark and Big Data**
-- 👯 I’m looking for opportunities as a **Data Analyst/Scientist Intern**
-- 📫 Reach me at: ritikghoghari.ds@gmail.com
-- 🔗 website : https://ritikghoghari.github.io/
+<p align="center">
+I am a Data Science enthusiast passionate about AI, ML, and Big Data.
+</p>
+
+<p align="center">
+ 🔭 I’m currently working on <b>Machine Learning Projects</b> <br>
+ 🌱 I’m currently learning <b>PySpark and Big Data</b> <br>
+ 👯 I’m looking for opportunities as a <b>Data Analyst/Scientist Intern</b> <br>
+ 📫 Reach me at: <a href="your-link">Your Email or LinkedIn</a>
+</p>
