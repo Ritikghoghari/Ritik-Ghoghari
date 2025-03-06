@@ -22,7 +22,10 @@ I am a Data Science enthusiast passionate about AI, ML, and Big Data.
          👯 I’m looking for opportunities as a <b>Data Analyst/Scientist Intern</b>
       </li>
       <li>
-         📫 Reach me at: <a href="your-link">Your Email or LinkedIn</a>
+         📫 Reach me at: <a href="your-link">ritikghoghari.ds@gmail.com</a>
+     </li>
+    <li>
+         🔗 Website: <a href="(https://ritikghoghari.github.io/)">https://ritikghoghari.github.io/</a>
      </li>
   </ul>
 </p>
