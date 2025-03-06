@@ -1,5 +1,4 @@
    # [RITIK GHOGHARI](https://ritikghoghari.github.io/)
-<h1 align="center">Hello World! 👋</h1>
 <h2 align="center">Welcome to my GitHub Profile</h2>
 <p  align="center"><img height="450" src = "https://media.giphy.com/media/m9vR4n6NNzWJGn9mO7/giphy.gif"></p>
 
@@ -15,8 +14,6 @@ Eager to learn and grow in advance analytics space that supports the organizatio
                                              https://ritikghoghari.github.io/ 
                      
 
-### Featured Video:
-<p  align="center"><img height="300" src = "https://media.giphy.com/media/ih4Cuk0i9R2W152Ljr/giphy.gif"></p>
 
 ### Summary <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <!-- Namaste 🙏 -->
@@ -24,6 +21,10 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 - 🔭 Researcher: Machine Learning,Deep Learning,AutoML & Computer Vision.
 - 👯 Looking to collaborate for ML,DL,CV and Blockchain projects.
 - 💬 Open to connect and contribute towards data science community
+-  I am a Data Science enthusiast passionate about AI, ML, and Big Data. 
+- 🔭 I’m currently working on **Machine Learning Projects**
+- 🌱 I’m currently learning **PySpark and Big Data**
+- 👯 I’m looking for opportunities as a **Data Analyst/Scientist Intern**
 
 
 - 📫 Author at Analytics-Vidya: [Medium](https://medium.com/@piyushpathak03) 
