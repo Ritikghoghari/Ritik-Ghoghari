@@ -27,10 +27,10 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 - 👯 I’m looking for opportunities as a **Data Analyst/Scientist Intern**
 
 
+
 - 📫 Author at Analytics-Vidya: [Medium](https://medium.com/@piyushpathak03) 
 - 📫 Check out the github contribution: [skyline](https://skyline.github.com/piyushpathak03/2020)  
 - 📫 Follw me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-ghoghari-951ab229b/)](https://www.linkedin.com/in/ritik-ghoghari-951ab229b/)
-[![Gmail Badge](https://img.shields.io/badge/-PiyushPathak-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:anirudhrapathak@gmail.com)](mailto:ritikghoghari.ds@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-RitikGhoghari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-ghoghari-951ab229b/)](https://www.linkedin.com/in/ritik-ghoghari-951ab229b/)
+[![Gmail Badge](https://img.shields.io/badge/-RitikGhoghari-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:ritikghoghari.ds@gmail.com)](mailto:ritikghoghari.ds@gmail.com)
