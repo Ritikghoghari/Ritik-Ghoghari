@@ -3,7 +3,7 @@
 <p  align="center"><img height="450" src = "https://media.giphy.com/media/m9vR4n6NNzWJGn9mO7/giphy.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-Hello.
+.
 
 Eager to learn and grow in advance analytics space that supports the organization in streamlining their work and make their business practices cost and time effective. Mentored 400+ professionals for their data science career.
 
@@ -11,6 +11,7 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 
 ###            👇🏻👇🏻👇🏻👇🏻 You can reach me out for detailed information at .👇🏻👇🏻👇🏻👇🏻
    [**PORTFOLIO**](https://ritikghoghari.github.io/)
+                                             
                                              https://ritikghoghari.github.io/ 
                      
 
@@ -18,9 +19,6 @@ Eager to learn and grow in advance analytics space that supports the organizatio
 ### Summary <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <!-- Namaste 🙏 -->
  <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
-- 🔭 Researcher: Machine Learning,Deep Learning,AutoML & Computer Vision.
-- 👯 Looking to collaborate for ML,DL,CV and Blockchain projects.
-- 💬 Open to connect and contribute towards data science community
 -  I am a Data Science enthusiast passionate about AI, ML, and Big Data. 
 - 🔭 I’m currently working on **Machine Learning Projects**
 - 🌱 I’m currently learning **PySpark and Big Data**
