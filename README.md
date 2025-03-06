@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-image-link-here" alt="Profile Banner">
+  <img src="dashboard.gif" alt="Profile Banner">
 </p>
 
 <h1 align="center">Hello World! 👋</h1>
