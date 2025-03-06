@@ -1,7 +1,7 @@
 # Hello World! 👋
 ## Welcome to my GitHub Profile
 
-![Profile Banner](your-image-link-here)
+![Profile Banner](dashboard.gif)
 
 I am a Data Science enthusiast passionate about AI, ML, and Big Data. 
 - 🔭 I’m currently working on **Machine Learning Projects**
