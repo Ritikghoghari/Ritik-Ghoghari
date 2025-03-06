@@ -1,4 +1,6 @@
    # [RITIK GHOGHARI](https://ritikghoghari.github.io/)
+<h1 align="center">Hello World! 👋</h1>
+<h2 align="center">Welcome to my GitHub Profile</h2>
 <p  align="center"><img height="450" src = "https://media.giphy.com/media/m9vR4n6NNzWJGn9mO7/giphy.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
