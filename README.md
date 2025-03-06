@@ -25,7 +25,7 @@ I am a Data Science enthusiast passionate about AI, ML, and Big Data.
          📫 Reach me at: <a href="your-link">ritikghoghari.ds@gmail.com</a>
      </li>
     <li>
-         🔗 Website: <a href="(https://ritikghoghari.github.io/)">https://ritikghoghari.github.io/</a>
+         🔗 Website: <a href="https://ritikghoghari.github.io/">https://ritikghoghari.github.io/</a>
      </li>
   </ul>
 </p>
